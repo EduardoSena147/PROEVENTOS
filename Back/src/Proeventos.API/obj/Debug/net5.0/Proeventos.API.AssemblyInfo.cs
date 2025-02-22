@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proeventos.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+564689945704cc27957b76e7b67d7abb003850e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+030efeff85e67e13f213131a331e24de9aee8ac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proeventos.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proeventos.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
