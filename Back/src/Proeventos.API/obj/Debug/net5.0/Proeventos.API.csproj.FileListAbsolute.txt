@@ -24,9 +24,6 @@ C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\Proeve
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\ref\Proeventos.API.dll
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\Proeventos.API.pdb
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\Proeventos.API.genruntimeconfig.cache
-C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\ref\Proeventos.API.dll
-C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\staticwebassets\Proeventos.API.StaticWebAssets.xml
-C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\Proeventos.API.csproj.CopyComplete
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
@@ -55,3 +52,12 @@ C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\runtim
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\bin\Debug\net5.0\Proeventos.API.StaticWebAssets.xml
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\Proeventos.API.sourcelink.json
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\staticwebassets\Proeventos.API.StaticWebAssets.Pack.cache
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\staticwebassets\msbuild.Proeventos.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Proeventos.API.props
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proeventos.API.props
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proeventos.API.props
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\Proevent.E925F6E6.Up2Date
+C:\Users\eduar\github\PROEVENTOS\Back\src\Proeventos.API\obj\Debug\net5.0\refint\Proeventos.API.dll
